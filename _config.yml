@@ -1,0 +1,12 @@
+# Site settings
+title: ronshapiro.me
+email: me@ronshapiro.me
+description: Software Engineer @Google; alumnus of the Android team @Venmo. Love to bike in NYC, solve puzzles, read philosophy and talk about Java (all four of which are sometimes intertwined).
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ronshapiro.me" # the base hostname & protocol for your site
+twitter_username: rdshapiro
+github_username:  ronshapiro
+paginate: 10
+
+# Build settings
+markdown: kramdown
