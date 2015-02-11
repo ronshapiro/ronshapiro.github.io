@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS <> Android Vocab Cheat Sheet"
-date:   2015-02-09 02:29:53
+date:   2014-11-01 02:29:53
 categories: iOS AndroidDev
 ---
 
