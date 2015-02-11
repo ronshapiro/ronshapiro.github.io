@@ -121,16 +121,17 @@ blockquote {
 }
 
 
-
+p code, p pre, span code, span pre {
+    font-size: 15px;
+}
 /**
  * Code formatting
  */
 pre,
 code {
-    font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #f8f8f8;
 }
 
 code {
